@@ -1,2 +1,2 @@
 # e-commerce
-Developing an ecommerce site using React.js(next.js), GoLang and Db(yet to decide)
+Developing an ecommerce site using React.js(next.js), Java and Db(yet to decide)
